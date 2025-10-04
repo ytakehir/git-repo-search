@@ -11,19 +11,7 @@
     "source.suppressRule.topLevel.biome": "never"
   },
   "cSpell.words": [
-    "cooldown",
-    "daisyui",
-    "fkey",
-    "instanciate",
-    "magiclink",
-    "nextauth",
-    "plpgsql",
-    "Postgrest",
-    "supabase",
-    "tiktok",
-    "turbopack",
-    "vercel",
-    "ffoffa"
+    "daisyui"
   ],
   "javascript.format.enable": false,
   "typescript.format.enable": false,
